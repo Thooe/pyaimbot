@@ -22,8 +22,6 @@ while(True):
 				time.sleep(1)
 			else: notfound = notfound + 1
 	print("Found: "+str(found)+" Not Found:"+str(notfound))
-#600-320
-
 #def coolStart(howLong, text):
 #	while howLong>0:
 #		print("Starting in {howLong} seconds...".format(int(howLong))
